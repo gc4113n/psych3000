@@ -1,0 +1,2 @@
+!curl -0 https://githubusercontent.com
+%run code1.py
